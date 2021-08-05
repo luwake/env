@@ -1,5 +1,5 @@
 # env
-a .env file read class
+a .env file read class use php function parse_ini_file
 
 
 # example
