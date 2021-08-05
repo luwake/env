@@ -13,5 +13,5 @@ $env->set('APP_NAME', 'TEST');
 
 $env->get('APP_NAME');
 
-getenv('APP_NAME')
+getenv('APP_NAME');
 ```
